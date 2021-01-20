@@ -15,7 +15,7 @@
     "mysql2": "^1.4.2",
     "sequelize": "^4.11.3",
     "sequelize-cli": "^3.0.0",
-    "socket.io": "2.0.3",
+    "socket.io": "2.4.0",
     "sticky-session": "^1.1.2"
   }
 }
